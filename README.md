@@ -1,4 +1,4 @@
-# proj1_angelica_eden
+# Projeto 1 - Trabalho Let's Code
 Projeto 1 do curso let's code - Angélica e Eden
 
 ### 📋 Pré-requisitos
@@ -9,8 +9,8 @@ Possuir uma versão do Anaconda e sua máquina ou ter acesso ao Google Colab.
 
 Este repositório está organizado da seguinte maneira.
 
-1. A pasta dados1 contém as informações coma as fontes de dados e codificação utilizada para levantar as análises.
-2. A pasta dados2 contém as informações coma as fontes de dados e codificação utilizada para levantar as análises.
+1. A pasta dados1 contém as informações com as fontes de dados e codificação utilizada para levantar as análises.
+2. A pasta dados2 contém as informações com as fontes de dados e codificação utilizada para levantar as análises.
 
 ## 🛠️ Construído com
 
